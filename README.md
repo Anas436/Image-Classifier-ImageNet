@@ -3,8 +3,6 @@ A demo application to showcase the responsive UI for ImageNet using Streamlit. S
 
 ![](https://github.com/Anas436/Image-Classifier-ImageNet/blob/main/images/cat.png)
 
-This demo is created using [Streamlit](https://www.streamlit.io/).
-
 The ImageNet model [code](classify_image.py) using TensorFlow has been adapted from [PyImageSearch](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
 
 ### How to Run?
