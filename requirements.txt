@@ -1,0 +1,10 @@
+numpy
+opencv-contrib-python
+tensorflow
+keras
+pandas
+streamlit
+Pillow
+h5py
+
+
