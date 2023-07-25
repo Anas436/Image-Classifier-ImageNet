@@ -95,7 +95,7 @@ if uploaded_file:
 # Download a single file and make its content available as a string.
 @st.cache(show_spinner=False)
 def get_file_content_as_string(path):
-    url = "https://raw.githubusercontent.com/nithishr/streamlit-ml-demo/main/" + path
+    url = "https://github.com/Anas436/Image-Classifier-ImageNet/tree/main/" + path
     response = urllib.request.urlopen(url)
     return response.read().decode("utf-8")
 
