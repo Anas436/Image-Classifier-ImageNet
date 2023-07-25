@@ -16,6 +16,8 @@ Run the application
 
 The application will run on localhost:8501 by default.
 
-### Sample Screenshots
-![Screenshot from a PC](images/pc_view.png "PC View of the app")
-![Screenshot from Mobile Device](images/mobile_view.png "Mobile View of the app")
+### Demo Apps
+![](https://github.com/Anas436/Image-Classifier-ImageNet/blob/main/images/dog.png)
+![](https://github.com/Anas436/Image-Classifier-ImageNet/blob/main/images/leaf.png)
+![](https://github.com/Anas436/Image-Classifier-ImageNet/blob/main/images/strawberry.png)
+![](https://github.com/Anas436/Image-Classifier-ImageNet/blob/main/images/suit.png)
