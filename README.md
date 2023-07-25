@@ -1,7 +1,7 @@
 # Image-Classifier-ImageNet
 A demo application to showcase the responsive UI for ImageNet using Streamlit. Streamlit provides an alternative to building full stack applications for the Machine Learning interface. Here, streamlit is used to upload an image for inference from the model.
 
-[![Screenshot of the demo application](http://img.youtube.com/vi/1y1o4XoFIuA/0.jpg)](http://www.youtube.com/watch?v=1y1o4XoFIuA)
+![](https://github.com/Anas436/Image-Classifier-ImageNet/blob/main/images/cat.png)
 
 This demo is created using [Streamlit](https://www.streamlit.io/).
 
